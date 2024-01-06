@@ -1,0 +1,6 @@
+Size(n),BubbleSortTime(ms),QuickSortTime(ms)
+500,1,0
+1000,5,0
+2000,24,0
+5000,146,0
+10000,579,1
